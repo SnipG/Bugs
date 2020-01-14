@@ -1,0 +1,1 @@
+{"version":1579029499197,"fileList":["c2runtime.js","data.js","start.js","style.css","offlineclient.js","images/shared-0-sheet0.png","opus.js","opus.wasm.js","opus.wasm.wasm","media/epicarpg.webm","icons/icon-16.png","icons/loading-logo.png","icons/icon-256.png","icons/icon-32.png","icons/icon-114.png","icons/icon-128.png","register-sw.js"]}
